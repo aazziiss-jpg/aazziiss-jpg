@@ -55,37 +55,37 @@ Berikut adalah tech stack dan tools yang sering saya gunakan. Saya masih terus b
 <table align="center">
   <tr>
     <td align="center" width="140">
-      <img src="wuwa.png" width="72" height="72" alt="Wuthering Waves"><br>
+      <img src="wuwa.jpg" width="72" height="72" alt="Wuthering Waves"><br>
       <sub><b>Wuthering Waves</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="hsr.png" width="72" height="72" alt="Honkai Star Rail"><br>
+      <img src="hsr.jpg" width="72" height="72" alt="Honkai Star Rail"><br>
       <sub><b>Honkai Star Rail</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="genshin.png" width="72" height="72" alt="Genshin Impact"><br>
+      <img src="genshin.jpg" width="72" height="72" alt="Genshin Impact"><br>
       <sub><b>Genshin Impact</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="ml.png" width="72" height="72" alt="Mobile Legends"><br>
+      <img src="ml.jpg" width="72" height="72" alt="Mobile Legends"><br>
       <sub><b>Mobile Legends</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="valo.png" width="72" height="72" alt="Valorant"><br>
+      <img src="valo.jpg" width="72" height="72" alt="Valorant"><br>
       <sub><b>Valorant</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="hok.png" width="72" height="72" alt="Honor of Kings"><br>
+      <img src="hok.jpg" width="72" height="72" alt="Honor of Kings"><br>
       <sub><b>Honor of Kings</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="codm.png" width="72" height="72" alt="Call of Duty Mobile"><br>
+      <img src="codm.jpg" width="72" height="72" alt="Call of Duty Mobile"><br>
       <sub><b>Call of Duty Mobile</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="bl.png" width="72" height="72" alt="Billiard"><br>
+      <img src="bl.jpg" width="72" height="72" alt="Billiard"><br>
       <sub><b>Billiard</b></sub>
     </td>
   </tr>
@@ -96,8 +96,8 @@ Berikut adalah tech stack dan tools yang sering saya gunakan. Saya masih terus b
 ## Statistik GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aziisuu-exe&show_icons=true&hide_border=true&theme=transparent&title_color=FF5C5C&text_color=C9D1D9&icon_color=FF5C5C" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziisuu-exe&layout=compact&hide_border=true&theme=transparent&title_color=FF5C5C&text_color=C9D1D9" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aazziiss-jpg&show_icons=true&hide_border=true&theme=transparent&title_color=FF5C5C&text_color=C9D1D9&icon_color=FF5C5C" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazziiss-jpg&layout=compact&hide_border=true&theme=transparent&title_color=FF5C5C&text_color=C9D1D9" alt="Top languages">
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ Berikut adalah tech stack dan tools yang sering saya gunakan. Saya masih terus b
 Anda bisa menemukan saya di sini:
 
 <p align="left">
-  <a href="https://github.com/aziisuu-exe" target="_blank">
+  <a href="https://github.com/aazziiss-jpg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/azis-alaudin-alam-77b3ab326" target="_blank">
