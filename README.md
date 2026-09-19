@@ -101,7 +101,7 @@ Berikut adalah tech stack dan tools yang sering saya gunakan. Saya masih terus b
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aziisuu-exe&theme=transparent&hide_border=true&ring=FF5C5C&fire=FF5C5C&currStreakLabel=FF5C5C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=aazziiss-jpg&theme=transparent&hide_border=true&ring=FF5C5C&fire=FF5C5C&currStreakLabel=FF5C5C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak">
 </p>
 
 <p align="center">
