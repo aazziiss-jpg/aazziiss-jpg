@@ -1,54 +1,120 @@
-<!-- <p align="center">
-  <img src="https://i.pinimg.com/1200x/7e/fa/cc/7efacc2d79cc416a7b76cf30de86f73b.jpg" width="1280px" alt="Banner Profil">
-</p> -->
-
-<!-- <p align = "center">
-  <img src="https://i.pinimg.com/1200x/ae/e2/f2/aee2f23b3c73d40cf5c4bb7fcb54cc5a.jpg" width="1280px">
-</p> -->
-
-<p align = "center">
+<p align="center">
   <img src="Sukuna-4 hosted at ImgBB.gif" width="1280" height="260">
 </p>
 
 <h1 align="center">
-  Halo! Saya Azis Alaudin Alam 👋
+  Halo, Saya Azis Alaudin Alam
 </h1>
 
-<h4 align="center"> [Video Editing 💻]   [UI UX Design 🧩]   [3D Modeling 🎮]   [Cybersecurity 🔐] </h4>
-
----
-
-<p align="left"> 
-  Saya adalah seorang mahasiswa yang bersemangat untuk belajar dan menciptakan hal-hal baru di dunia teknologi. Saat ini saya sedang fokus pada Cybersecurity dan UI UX Design.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF5C5C&center=true&vCenter=true&width=640&height=40&lines=Web+Developer;Cybersecurity+Enthusiast;UI+UX+Designer;Next.js+%7C+Laravel+%7C+React;Terus+belajar%2C+terus+membangun" alt="Typing animation">
 </p>
 
-## 🚀 Sekilas Tentang Saya
-
-* 🌐 Saya saat ini sedang mendalami **Ethical Hacking**.
-* 📫 Cara tercepat menghubungi saya: **azisalam0@gmail.com**.
-* ⚡ Fakta menarik: **Saya suka menonton film dan mencari kuliner. Satu hal yang tidak saya sukai adalah Mendaki, karena berjalan itu melelahkan :v**.
+<p align="center">
+  Web Development &nbsp;|&nbsp; UI UX Design &nbsp;|&nbsp; Cybersecurity &nbsp;|&nbsp; Video Editing &nbsp;|&nbsp; 3D Modeling
+</p>
 
 ---
 
-## 🛠️ Bahasa & Tools yang Saya Gunakan
+## Tentang Saya
 
-Ini adalah daftar tech stack dan tools yang sering saya gunakan, masih pemula.
+Saya adalah mahasiswa Teknik Informatika yang bersemangat untuk belajar dan menciptakan hal-hal baru di dunia teknologi. Dalam membangun website, saya selalu mengutamakan tampilan yang sederhana dan modern, tanpa mengesampingkan sisi keamanannya. Saat ini saya juga sedang mendalami Ethical Hacking dan Penetration Testing.
+
+```js
+const azis = {
+  nama: "Azis Alaudin Alam",
+  status: "Mahasiswa Teknik Informatika",
+  peminatan: ["Web Development", "Cybersecurity Penetration Testing"],
+  sudahDipelajari: ["React", "Next.js", "Laravel"],
+  prinsip: "Desain sederhana, modern, dan aman",
+  labKeamanan: "Kali Linux di VirtualBox",
+  kontak: "azisalam0@gmail.com",
+};
+```
+
+<details>
+  <summary><b>Fakta menarik tentang saya</b></summary>
+  <br>
+  Saya suka menonton film dan mencari kuliner. Satu hal yang tidak saya sukai adalah mendaki, karena berjalan itu melelahkan :v
+</details>
+
+---
+
+## Bahasa dan Tools
+
+Berikut adalah tech stack dan tools yang sering saya gunakan. Saya masih terus belajar dan berkembang.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql,figma,react,laravel,nextjs,kali&theme=dark" alt="Tech stack">
 </p>
 
 ---
 
-## 🔗 Mari Terhubung!
+## Game Favorit
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="wuwa.png" width="72" height="72" alt="Wuthering Waves"><br>
+      <sub><b>Wuthering Waves</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="hsr.png" width="72" height="72" alt="Honkai Star Rail"><br>
+      <sub><b>Honkai Star Rail</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="genshin.png" width="72" height="72" alt="Genshin Impact"><br>
+      <sub><b>Genshin Impact</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="ml.png" width="72" height="72" alt="Mobile Legends"><br>
+      <sub><b>Mobile Legends</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="valo.png" width="72" height="72" alt="Valorant"><br>
+      <sub><b>Valorant</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="hok.png" width="72" height="72" alt="Honor of Kings"><br>
+      <sub><b>Honor of Kings</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="codm.png" width="72" height="72" alt="Call of Duty Mobile"><br>
+      <sub><b>Call of Duty Mobile</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="bl.png" width="72" height="72" alt="Billiard"><br>
+      <sub><b>Billiard</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Statistik GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aziisuu-exe&show_icons=true&hide_border=true&theme=transparent&title_color=FF5C5C&text_color=C9D1D9&icon_color=FF5C5C" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziisuu-exe&layout=compact&hide_border=true&theme=transparent&title_color=FF5C5C&text_color=C9D1D9" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aziisuu-exe&theme=transparent&hide_border=true&ring=FF5C5C&fire=FF5C5C&currStreakLabel=FF5C5C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aazziiss-jpg/aziisuu-exe/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aazziiss-jpg/aziisuu-exe/output/github-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/aazziiss-jpg/aziisuu-exe/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+## Mari Terhubung
 
 Anda bisa menemukan saya di sini:
 
@@ -67,4 +133,8 @@ Anda bisa menemukan saya di sini:
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aziisuu-exe&label=Profile+Views&color=FF5C5C&style=flat-square" alt="Profile views">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff5c5c&height=120&section=footer&animation=twinkling" width="100%" alt="Footer wave">
