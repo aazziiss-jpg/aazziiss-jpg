@@ -96,8 +96,8 @@ Berikut adalah tech stack dan tools yang sering saya gunakan. Saya masih terus b
 ## Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aazziiss-jpg&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazziiss-jpg&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aazziiss-jpg&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aazziiss-jpg&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
