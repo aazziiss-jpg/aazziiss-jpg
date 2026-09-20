@@ -46,33 +46,6 @@ const azis = {
 }
 ```
 
-<table>
-<tr>
-<td width="50%">
-
-### Focus
-
-- Laravel Ecosystem
-- Next.js App Router
-- React & TypeScript
-- REST API Development
-
-</td>
-
-<td width="50%">
-
-### Currently Exploring
-
-- Ethical Hacking
-- AI Automation
-- Networking
-- Machine Learning Deployment
-
-</td>
-</tr>
-</table>
-
----
 
 # TECH STACK
 
@@ -92,123 +65,6 @@ const azis = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,kali,postman,supabase,vercel&theme=dark"/>
-</p>
-
----
-
-# CURRENT LEARNING PROGRESS
-
-| Topic | Progress |
-|-------|----------|
-| Laravel | ██████████ 95% |
-| Next.js | █████████ 90% |
-| React | ████████ 85% |
-| TypeScript | ███████ 75% |
-| Cybersecurity | ███████ 70% |
-| Machine Learning | ██████ 60% |
-
----
-
-# FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-## NGEKOZ
-
-Boarding House Platform
-
-`Laravel` `Next.js` `MySQL`
-
-Smart boarding house management with booking, wishlist and owner dashboard.
-
-</td>
-
-<td width="50%">
-
-## MaintenanceAja
-
-Preventive Maintenance
-
-`Laravel` `React`
-
-Maintenance scheduling system with monitoring dashboard.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## FreshStock
-
-Food Monitoring Website
-
-`Laravel`
-
-Monitor expiration dates and stock availability.
-
-</td>
-
-<td width="50%">
-
-## Steam AI Recommender
-
-Recommendation System
-
-`FastAPI` `Sentence-BERT`
-
-Game recommendation using NLP embeddings.
-
-</td>
-</tr>
-</table>
-
----
-
-# GITHUB ANALYTICS
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aazziiss-jpg&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazziiss-jpg&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=FF3B3B&text_color=FFFFFF"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=aazziiss-jpg&theme=transparent&hide_border=true&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E"/>
-
-</p>
-
----
-
-# CONTRIBUTION ACTIVITY
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aazziiss-jpg&bg_color=050505&color=FFFFFF&line=FF3B3B&point=FF3B3B&area=true&hide_border=true"/>
-
-</p>
-
----
-
-# CONTRIBUTION SNAKE
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aazziiss-jpg/aazziiss-jpg/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aazziiss-jpg/aazziiss-jpg/output/github-contribution-grid-snake.svg"/>
-
-<img alt="github contribution snake" src="https://raw.githubusercontent.com/aazziiss-jpg/aazziiss-jpg/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
 </p>
 
 ---
@@ -264,16 +120,6 @@ Game recommendation using NLP embeddings.
 
 </tr>
 </table>
-
----
-
-# GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aazziiss-jpg&theme=darkhub&column=4&row=2&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
-
-</p>
 
 ---
 
