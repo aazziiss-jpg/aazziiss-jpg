@@ -1,140 +1,312 @@
-<p align="center">
-  <img src="Sukuna-4 hosted at ImgBB.gif" width="1280" height="260">
-</p>
-
-<h1 align="center">
-  Halo, Saya Azis Alaudin Alam
-</h1>
+# <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B0B0F,35:700012,70:B11226,100:FF3B3B&section=header&text=AZIS%20ALAUDIN%20ALAM&fontColor=ffffff&fontSize=38&fontAlignY=35&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=16"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF5C5C&center=true&vCenter=true&width=640&height=40&lines=Web+Developer;Cybersecurity+Enthusiast;UI+UX+Designer;Next.js+%7C+Laravel+%7C+React;Terus+belajar%2C+terus+membangun" alt="Typing animation">
+  <img src="Sukuna-4 hosted at ImgBB.gif" width="100%" alt="Sukuna Banner"/>
 </p>
 
 <p align="center">
-  Web Development &nbsp;|&nbsp; UI UX Design &nbsp;|&nbsp; Cybersecurity &nbsp;|&nbsp; Video Editing &nbsp;|&nbsp; 3D Modeling
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FF3B3B&center=true&vCenter=true&width=700&lines=Fullstack+Web+Developer;Cybersecurity+Enthusiast;Machine+Learning+Explorer;Laravel+12+%E2%80%A2+Next.js+16+%E2%80%A2+React+19;Build+Simple.+Build+Secure." alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aazziiss-jpg&label=PROFILE+VIEWS&color=B11226&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/aazziiss-jpg?style=flat-square&color=B11226&labelColor=0B0B0F"/>
+  <img src="https://img.shields.io/github/stars/aazziiss-jpg?style=flat-square&color=B11226&labelColor=0B0B0F"/>
 </p>
 
 ---
 
-## Tentang Saya
+# ABOUT ME
 
-Saya adalah mahasiswa Teknik Informatika yang bersemangat untuk belajar dan menciptakan hal-hal baru di dunia teknologi. Dalam membangun website, saya selalu mengutamakan tampilan yang sederhana dan modern, tanpa mengesampingkan sisi keamanannya. Saat ini saya juga sedang mendalami Ethical Hacking dan Penetration Testing.
-
-```js
+```ts
 const azis = {
-  nama: "Azis Alaudin Alam",
-  status: "Mahasiswa Teknik Informatika",
-  peminatan: ["Web Development", "Cybersecurity Penetration Testing"],
-  sudahDipelajari: ["React", "Next.js", "Laravel"],
-  prinsip: "Desain sederhana, modern, dan aman",
-  labKeamanan: "Kali Linux di VirtualBox",
-  kontak: "azisalam0@gmail.com",
-};
+  name: "Azis Alaudin Alam",
+  location: "Madiun, East Java, Indonesia",
+  role: "Informatics Engineering Student",
+  focus: [
+    "Web Development",
+    "Cybersecurity",
+    "Machine Learning",
+    "Networking"
+  ],
+  stack: [
+    "Laravel",
+    "Next.js",
+    "React",
+    "TypeScript",
+    "MySQL",
+    "Python"
+  ],
+  motto: "Build modern applications with security in mind."
+}
 ```
 
-<details>
-  <summary><b>Fakta menarik tentang saya</b></summary>
-  <br>
-  Saya suka menonton film dan mencari kuliner. Satu hal yang tidak saya sukai adalah mendaki, karena berjalan itu melelahkan :v
-</details>
+Mahasiswa **Teknik Informatika Universitas PGRI Madiun** yang memiliki ketertarikan pada pengembangan aplikasi web modern, keamanan siber, networking, dan machine learning.
+
+Lebih menyukai desain yang sederhana, bersih, dan informatif dengan pendekatan **minimalist dark UI**.
 
 ---
 
-## Bahasa dan Tools
+# CURRENT FOCUS
 
-Berikut adalah tech stack dan tools yang sering saya gunakan. Saya masih terus belajar dan berkembang.
+<table>
+<tr>
+<td width="50%">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql,figma,react,laravel,nextjs,kali&theme=dark" alt="Tech stack">
-</p>
+### Building
 
----
+* Sistem Inventaris Dishub (Next.js + Laravel)
+* MaintenanceAja
+* Ngekoz
+* FreshStock
 
-## Game Favorit
+</td>
+<td width="50%">
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="wuwa.jpg" width="72" height="72" alt="Wuthering Waves"><br>
-      <sub><b>Wuthering Waves</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="hsr.jpg" width="72" height="72" alt="Honkai Star Rail"><br>
-      <sub><b>Honkai Star Rail</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="genshin.jpg" width="72" height="72" alt="Genshin Impact"><br>
-      <sub><b>Genshin Impact</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="ml.jpg" width="72" height="72" alt="Mobile Legends"><br>
-      <sub><b>Mobile Legends</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="valo.jpg" width="72" height="72" alt="Valorant"><br>
-      <sub><b>Valorant</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="hok.jpg" width="72" height="72" alt="Honor of Kings"><br>
-      <sub><b>Honor of Kings</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="codm.jpg" width="72" height="72" alt="Call of Duty Mobile"><br>
-      <sub><b>Call of Duty Mobile</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="bl.jpg" width="72" height="72" alt="Billiard"><br>
-      <sub><b>Billiard</b></sub>
-    </td>
-  </tr>
+### Learning
+
+* Penetration Testing
+* AI Deployment
+* Networking Automation
+* REST API Security
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Statistik GitHub
+# TECH STACK
+
+### Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aazziiss-jpg&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aazziiss-jpg&layout=compact&theme=tokyonight" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql,postgres&theme=dark"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aazziiss-jpg&theme=transparent&hide_border=true&ring=FF5C5C&fire=FF5C5C&currStreakLabel=FF5C5C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak">
-</p>
+### Frameworks
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aazziiss-jpg/aziisuu-exe/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aazziiss-jpg/aziisuu-exe/output/github-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/aazziiss-jpg/aziisuu-exe/output/github-snake.svg">
-  </picture>
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,nodejs,express&theme=dark"/>
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,kali,vscode,postman,supabase,vercel&theme=dark"/>
 </p>
 
 ---
 
-## Mari Terhubung
+# DEVELOPMENT ROADMAP
 
-Anda bisa menemukan saya di sini:
+| Technology       | Progress       |
+| ---------------- | -------------- |
+| Laravel          | ██████████ 95% |
+| Next.js          | █████████ 90%  |
+| React            | ████████ 85%   |
+| TypeScript       | ███████ 75%    |
+| Cybersecurity    | ███████ 70%    |
+| Machine Learning | ██████ 60%     |
 
-<p align="left">
-  <a href="https://github.com/aazziiss-jpg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/azis-alaudin-alam-77b3ab326" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/_azxlm/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:azisalam0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+---
+
+# FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### Ngekoz
+
+Smart boarding house management platform.
+
+**Tech Stack**
+
+`Next.js` `Laravel` `MySQL`
+
+</td>
+<td width="50%">
+
+### MaintenanceAja
+
+Preventive maintenance scheduling system.
+
+**Tech Stack**
+
+`Laravel` `React` `TailwindCSS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### FreshStock
+
+Food expiration monitoring website.
+
+**Tech Stack**
+
+`Laravel` `React`
+
+</td>
+
+<td width="50%">
+
+### Steam AI Recommender
+
+Recommendation system using Sentence-BERT.
+
+**Tech Stack**
+
+`FastAPI` `Python` `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+---
+
+# GITHUB ANALYTICS
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aazziiss-jpg&show_icons=true&theme=transparent&hide_border=true&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazziiss-jpg&layout=compact&theme=transparent&hide_border=true&title_color=FF3B3B&text_color=FFFFFF"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aziisuu-exe&label=Profile+Views&color=FF5C5C&style=flat-square" alt="Profile views">
+<img width="70%" src="https://streak-stats.demolab.com?user=aazziiss-jpg&theme=transparent&hide_border=true&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff5c5c&height=120&section=footer&animation=twinkling" width="100%" alt="Footer wave">
+---
+
+# CONTRIBUTION ACTIVITY
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aazziiss-jpg&bg_color=0B0B0F&color=FFFFFF&line=FF3B3B&point=FF3B3B&area=true&hide_border=true"/>
+</p>
+
+---
+
+# CONTRIBUTION SNAKE
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aazziiss-jpg/aazziiss-jpg/output/github-contribution-grid-snake-dark.svg"/>
+
+  <img src="https://raw.githubusercontent.com/aazziiss-jpg/aazziiss-jpg/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</p>
+
+---
+
+# FAVORITE GAMES
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="wuwa.jpg" width="120"/>
+
+**Wuthering Waves**
+
+</td>
+
+<td align="center">
+<img src="hsr.jpg" width="120"/>
+
+**Honkai Star Rail**
+
+</td>
+
+<td align="center">
+<img src="genshin.jpg" width="120"/>
+
+**Genshin Impact**
+
+</td>
+
+<td align="center">
+<img src="valo.jpg" width="120"/>
+
+**Valorant**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="hok.jpg" width="120"/>
+
+**Honor of Kings**
+
+</td>
+
+<td align="center">
+<img src="codm.jpg" width="120"/>
+
+**COD Mobile**
+
+</td>
+
+<td align="center">
+<img src="ml.jpg" width="120"/>
+
+**Mobile Legends**
+
+</td>
+
+<td align="center">
+<img src="bl.jpg" width="120"/>
+
+**Billiard**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# GITHUB TROPHIES
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aazziiss-jpg&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# CONNECT WITH ME
+
+<p align="center">
+<a href="https://github.com/aazziiss-jpg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/azis-alaudin-alam-77b3ab326">
+<img src="https://img.shields.io/badge/LinkedIn-B11226?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_azxlm/">
+<img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:azisalam0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-5A0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+
+### "Build something simple. Make it secure. Keep learning."
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B0B0F,35:700012,70:B11226,100:FF3B3B&animation=twinkling"/>
