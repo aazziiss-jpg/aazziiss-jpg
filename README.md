@@ -53,21 +53,11 @@ Lebih menyukai desain yang sederhana, bersih, dan informatif dengan pendekatan *
 <tr>
 <td width="50%">
 
-### Building
-
-* Sistem Inventaris Dishub (Next.js + Laravel)
-* MaintenanceAja
-* Ngekoz
-* FreshStock
-
-</td>
-<td width="50%">
-
 ### Learning
 
 * Penetration Testing
-* AI Deployment
-* Networking Automation
+* Web Deployment
+* AI Automation
 * REST API Security
 
 </td>
@@ -95,76 +85,6 @@ Lebih menyukai desain yang sederhana, bersih, dan informatif dengan pendekatan *
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,kali,vscode,postman,supabase,vercel&theme=dark"/>
 </p>
-
----
-
-# DEVELOPMENT ROADMAP
-
-| Technology       | Progress       |
-| ---------------- | -------------- |
-| Laravel          | ██████████ 95% |
-| Next.js          | █████████ 90%  |
-| React            | ████████ 85%   |
-| TypeScript       | ███████ 75%    |
-| Cybersecurity    | ███████ 70%    |
-| Machine Learning | ██████ 60%     |
-
----
-
-# FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-### Ngekoz
-
-Smart boarding house management platform.
-
-**Tech Stack**
-
-`Next.js` `Laravel` `MySQL`
-
-</td>
-<td width="50%">
-
-### MaintenanceAja
-
-Preventive maintenance scheduling system.
-
-**Tech Stack**
-
-`Laravel` `React` `TailwindCSS`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### FreshStock
-
-Food expiration monitoring website.
-
-**Tech Stack**
-
-`Laravel` `React`
-
-</td>
-
-<td width="50%">
-
-### Steam AI Recommender
-
-Recommendation system using Sentence-BERT.
-
-**Tech Stack**
-
-`FastAPI` `Python` `Machine Learning`
-
-</td>
-</tr>
-</table>
 
 ---
 
